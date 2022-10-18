@@ -7,11 +7,11 @@ import (
 	"testing"
 	"time"
 
-	dydx "github.com/go-numb/go-dydx"
-	"github.com/go-numb/go-dydx/helpers"
-	"github.com/go-numb/go-dydx/private"
-	"github.com/go-numb/go-dydx/realtime"
-	"github.com/go-numb/go-dydx/types"
+	dydx "github.com/Social-Taiwan/go-dydx"
+	"github.com/Social-Taiwan/go-dydx/helpers"
+	"github.com/Social-Taiwan/go-dydx/private"
+	"github.com/Social-Taiwan/go-dydx/realtime"
+	"github.com/Social-Taiwan/go-dydx/types"
 	"github.com/stretchr/testify/assert"
 )
 
